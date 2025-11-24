@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Bella",
+        "type": "Dog",
+        "age": 2,
+        "description": "Friendly and playful mixed-breed dog looking for an active family."
+    },
+    {
+        "id": 2,
+        "name": "Milo",
+        "type": "Cat",
+        "age": 3,
+        "description": "Calm indoor cat who loves sunny windowsills and quiet homes."
+    },
+    {
+        "id": 3,
+        "name": "Luna",
+        "type": "Dog",
+        "age": 1,
+        "description": "Energetic puppy who is learning basic commands and loves toys."
+    }
+]

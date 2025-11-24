@@ -1,0 +1,4 @@
+*.json text eol=lf
+*.php  text eol=lf
+*.css  text eol=lf
+*.md   text eol=lf
